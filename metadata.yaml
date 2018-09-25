@@ -1,5 +1,8 @@
 _repo: The-Land-Beyond-the-Forest-Facts-Figures-and-Fancies-from-Transylvania_57168
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57168-h/images/cover.jpg
 creator:
   author:
     agent_name: Gerard, E. (Emily)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46704'
     url: http://www.gutenberg.org/2009/agents/46704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57168#The-Land-Beyond-the-Forest-Facts-Figures-and-Fancies-from-Transylvania
 gutenberg_issued: '2018-05-16'
 gutenberg_type: Text
 identifiers:
